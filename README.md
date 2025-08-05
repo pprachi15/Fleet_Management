@@ -1,4 +1,4 @@
-# 🚘 Fleet Management Dashboard – Tableau Project
+# 🚘 Fleet Management Dashboard
 
 ### 📊 [Click here to view the live dashboard](https://public.tableau.com/views/FleetManagementDashboard_17543776436470/FleetManagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
